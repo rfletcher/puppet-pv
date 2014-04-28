@@ -1,0 +1,6 @@
+name         'rfletcher-pv'
+version      '0.0.1'
+license      'MIT License'
+summary      'A puppet module for Pipe Viewer'
+description  'Install or remove Pipe Viewer'
+project_page 'https://github.com/rfletcher/puppet-pv'
